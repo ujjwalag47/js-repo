@@ -7,7 +7,7 @@ const dc_heros = ["superman", "flash", "batman"]
 const allHeros = marvel_heros.concat(dc_heros)
 // console.log(allHeros); //[ 'thor', 'Ironman', 'spiderman', 'superman', 'flash', 'batman' ]
 
-const all_new=[...marvel_heros,...dc_heros]
+const all_new=[...marvel_heros,...dc_heros]  //... ye spread operator hai multiple arr ko ek he banane mai kaam aata hai
 //console.log(all_new) //[ 'thor', 'Ironman', 'spiderman', 'superman', 'flash', 'batman' ]
 
 const another_array=[1,2,[6,9],5,[7,2,[1,0],5]]

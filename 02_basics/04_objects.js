@@ -35,6 +35,7 @@ const obj3={5:"a", 6:"b"}
 //const obj4=Object.assign({},obj1,obj2,obj3) //{ '1': 'a', '2': 'b', '3': 'a', '4': 'b', '5': 'a', '6': 'b' }
 //{}, iske bina bhi likhenge tabh bhi koi dikkkat nahi hogi pr ye achi practice hai jimse ek empty object mai baaki aa jayenge
 const obj4={...obj1,...obj2,...obj3} //{ '1': 'a', '2': 'b', '3': 'a', '4': 'b', '5': 'a', '6': 'b' }
+// ... ye spread operator hai multiple obj ko ek he banane mai kaam aata hai
 //console.log(obj4)
 
 
