@@ -11,5 +11,5 @@
     console.log(`db 2 connected ${name}`) //db 2 connected ujjwal
 })("ujjwal")
 
-// How does javascript execute code + call stack video
+// How does javascript execute code + call stack video notes of video in ms word
 //https://www.youtube.com/watch?v=ByhtOgF6uYM&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=25
